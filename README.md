@@ -11,6 +11,7 @@ for Rest Oak Mysql framwork
 - code written in typescript for deno runtime
 - no magic, no experiment typescript  feature, just regular typescript code
 - functional orientented programing, avoid class usage as possible
+- builtin auth sys
 - generate some codes : new app ,new controller ...see https://rom-cli2gui.netlify.app/ for more<br>
 (see structure conventions section and cli.ts convention section for more info)
 - allow work in group, since we have clear structure
