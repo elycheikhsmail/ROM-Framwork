@@ -27,15 +27,10 @@ for Rest Oak Mysql framwork
 <hr>
 
 ## how to use ?
-clone the repo
-
-run the command 
-
-open the url      in your browser
-
-congratultion you will see hello word
-
-for advanced usage continue reading this readme
+clone the repo <br>
+git clone https://github.com/elycheikhsmail/ROM-Framwork.git <br>
+you can see demo app to understand more <br>
+and https://rom-cli2gui.netlify.app/ to see how generate some code crud app for example ..
 
 <hr>
 
